@@ -1,2 +1,2 @@
-name: prasenjit
-appName: client-app
+server:
+  port: 9090
